@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Helvetica/Helvetica.eot?#iefix") format("embedded-opentype"), url("../fonts/Helvetica/Helvetica.woff") format("woff"), url("../fonts/Helvetica/Helvetica.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Helvetica-light";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Helvetica-light/Helvetica-light.eot?#iefix") format("embedded-opentype"), url("../fonts/Helvetica-light/Helvetica-light.woff") format("woff"), url("../fonts/Helvetica-light/Helvetica-light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Helvetica-LightOblique";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/Helvetica-LightOblique/Helvetica-LightOblique.eot?#iefix") format("embedded-opentype"), url("../fonts/Helvetica-LightOblique/Helvetica-LightOblique.woff") format("woff"), url("../fonts/Helvetica-LightOblique/Helvetica-LightOblique.ttf") format("truetype"); }
